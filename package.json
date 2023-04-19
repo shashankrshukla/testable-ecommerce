@@ -2,15 +2,15 @@
   "name": "commerce",
   "license": "MIT",
   "private": true,
+  "engines": {
+    "node": "16.X"
+  },
   "scripts": {
     "build": "turbo run build --filter=next-commerce...",
     "dev": "turbo run dev",
     "start": "turbo run start",
     "types": "turbo run types",
     "prettier-fix": "prettier --write ."
-  },
-    "engines": {
-    "node": "16.X"
   },
   "devDependencies": {
     "husky": "^8.0.1",
