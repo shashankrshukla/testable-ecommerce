@@ -32,7 +32,7 @@ importers:
       jsonwebtoken: ^8.5.1
       lint-staged: ^12.1.7
       lodash.debounce: ^4.0.8
-      next: ^13.0.6
+      next: 13.0.6
       prettier: ^2.5.1
       react: ^18.2.0
       react-dom: ^18.2.0
