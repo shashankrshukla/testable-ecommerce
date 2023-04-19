@@ -9,6 +9,9 @@
     "types": "turbo run types",
     "prettier-fix": "prettier --write ."
   },
+    "engines": {
+    "node": "16.X"
+  },
   "devDependencies": {
     "husky": "^8.0.1",
     "prettier": "^2.7.1",
